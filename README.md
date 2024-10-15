@@ -19,7 +19,7 @@ This is a capstone project developed by my team and me as part of the capstone m
 - **Interactive Stories**: Animated tales with voice narration and sound effects.
 - **Personalized Learning**: AI-driven recommendations, progress tracking, and adaptive challenges.
 - **Educational Games**: Word puzzles, spelling bees, and comprehension quizzes.
-- 
+
 ## Technologies Used
 ReadifyaAi leverages a robust tech stack to deliver a seamless and engaging user experience:
 
