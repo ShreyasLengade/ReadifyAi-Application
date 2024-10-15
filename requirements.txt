@@ -1,0 +1,11 @@
+fastapi
+openai
+pydantic
+uvicorn
+boto3
+google-cloud
+google-cloud-texttospeech
+google-cloud-speech
+langchain
+psycopg2-binary
+tiktoken
